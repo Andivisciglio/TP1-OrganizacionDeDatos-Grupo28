@@ -33,3 +33,5 @@
 # la media de anuncios que ven las personas.
 
 #Cuantas postulaciones/avisos hay segun el nivel laboral
+
+#Heatmap por hora y dia de la semana en relacion a las vistas/Postulaciones
