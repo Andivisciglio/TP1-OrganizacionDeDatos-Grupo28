@@ -6,7 +6,7 @@
 
 #Tipo de Trabajo con mayor oferta y menor demanda (en proceso)
 
-#Relacion entre estado educacion y postulaciones efectivas
+#Relacion entre estado educacion y postulaciones efectivas(Hecho)
 
 #Genero postulantes (no aporta nada no hay diferencia significativa)
 
@@ -14,10 +14,12 @@
 
 #Nivel laboral y edad media de los postulantes (en proceso)
 
-#Hora de las Visitas segun el genero o edad
+#Hora de las Visitas segun el genero o edad (Hecho)
 
-#Nivel laboral y horario visita
+#Nivel laboral y horario visita(Hecho)
 
 #Analizar las palabras mas y menos usadas en los titulos y su efectividad
 
 #Filtrar postulaciones con el comienzo de las vistas (HECHO)
+
+
