@@ -10,7 +10,7 @@
 
 #Genero postulantes
 
-#Tipo de educacion y postulaciones efectivas
+#Tipo de educacion y postulaciones efectivas (en proceso)
 
 #Nivel laboral y edad media de los postulantes (en proceso)
 
