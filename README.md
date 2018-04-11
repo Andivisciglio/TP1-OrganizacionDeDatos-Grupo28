@@ -12,7 +12,7 @@
 
 #Tipo de educacion y postulaciones efectivas
 
-#Nivel laboral y edad media de los postulantes
+#Nivel laboral y edad media de los postulantes (en proceso)
 
 #Hora de las Visitas segun el genero o edad
 
