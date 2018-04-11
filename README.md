@@ -34,4 +34,6 @@
 
 #Cuantas postulaciones/avisos hay segun el nivel laboral (hecho)
 
-#Heatmap por hora y dia de la semana en relacion a las vistas/Postulaciones (Hecho, ponele, preguntar si sirve)
+#Heatmap por hora y dia de la semana en relacion a las vistas (Hecho, ponele, preguntar si sirve)
+
+#Heatmap por hora y dia de la semana en relacion a las postulaciones (Hecho)
