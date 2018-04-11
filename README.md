@@ -22,4 +22,14 @@
 
 #Filtrar postulaciones con el comienzo de las vistas (HECHO)
 
+#Horario donde predominan las postulaciones
 
+#Horarios de postulaciones segun el dia de la semana
+
+#A que hora hay mas vistas
+
+# El dia que predominan las vistas
+
+# la media de anuncios que ven las personas.
+
+#Cuantas postulaciones/avisos hay segun el nivel laboral
