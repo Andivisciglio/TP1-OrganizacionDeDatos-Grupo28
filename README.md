@@ -22,16 +22,16 @@
 
 #Filtrar postulaciones con el comienzo de las vistas (HECHO)
 
-#Horario donde predominan las postulaciones
+#Horario donde predominan las postulaciones(hecho)
 
-#Horarios de postulaciones segun el dia de la semana
+#Horarios de postulaciones segun el dia de la semana(hecho)
 
-#A que hora hay mas vistas
+#A que hora hay mas vistas hecho)
 
-# El dia que predominan las vistas
+# El dia que predominan las vistas hecho
 
-# la media de anuncios que ven las personas.
+# la media de anuncios que ven las personas.(Hecho 11)revisar filtrado
 
-#Cuantas postulaciones/avisos hay segun el nivel laboral
+#Cuantas postulaciones/avisos hay segun el nivel laboral (hecho)
 
 #Heatmap por hora y dia de la semana en relacion a las vistas/Postulaciones
