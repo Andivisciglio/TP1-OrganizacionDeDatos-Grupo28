@@ -8,7 +8,7 @@
 
 #Relacion entre estado educacion y postulaciones efectivas
 
-#Genero postulantes
+#Genero postulantes (no aporta nada no hay diferencia significativa)
 
 #Tipo de educacion y postulaciones efectivas (en proceso)
 
