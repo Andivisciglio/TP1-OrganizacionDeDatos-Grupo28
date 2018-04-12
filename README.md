@@ -18,7 +18,7 @@
 
 #Nivel laboral y horario visita(Hecho)
 
-#Analizar las palabras mas y menos usadas en los titulos y su efectividad
+#Analizar las palabras mas y menos usadas en los titulos y su efectividad (hecho)
 
 #Filtrar postulaciones con el comienzo de las vistas (HECHO)
 
