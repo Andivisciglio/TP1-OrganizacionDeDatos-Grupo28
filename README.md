@@ -1,5 +1,7 @@
 # TP1-OrganizacionDeDatos-Grupo28
 
+# Ver el tema de online/offline
+
 #Area con mayor oferta y menor demanda (hecho)
 
 #Empresa con mayor oferta y menor demanda (hecho)
@@ -28,12 +30,14 @@
 
 #A que hora hay mas vistas hecho)
 
-# El dia que predominan las vistas hecho
+#El dia que predominan las vistas hecho
 
-# la media de anuncios que ven las personas.(Hecho 11)revisar filtrado
+#La media de anuncios que ven las personas.(Hecho 11)revisar filtrado
 
 #Cuantas postulaciones/avisos hay segun el nivel laboral (hecho)
 
 #Heatmap por hora y dia de la semana en relacion a las vistas (Hecho, ponele, preguntar si sirve)
 
 #Heatmap por hora y dia de la semana en relacion a las postulaciones (Hecho)
+
+
