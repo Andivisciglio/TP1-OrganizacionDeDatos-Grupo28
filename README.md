@@ -1,8 +1,8 @@
 # TP1-OrganizacionDeDatos-Grupo28
 
-#Area con mayor oferta y menor demanda (en proceso)
+#Area con mayor oferta y menor demanda (hecho)
 
-#Empresa con mayor oferta y menor demanda (en proceso)
+#Empresa con mayor oferta y menor demanda (hecho)
 
 #Tipo de Trabajo con mayor oferta y menor demanda (en proceso)
 
