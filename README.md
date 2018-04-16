@@ -2,6 +2,9 @@
 
 Alumnos:
  Federico Rossini
+ 
  Andres Visciglio
+ 
  Agostina Vasquez Isla
+ 
  Luciano Ortiz
